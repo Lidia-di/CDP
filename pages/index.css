@@ -1,0 +1,97 @@
+/* page */
+
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/spacer/spacer.css);
+
+/* header */
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__banner/header__banner.css);
+@import url(../blocks/header/__banner/_first/header__banner_first.css);
+@import url(../blocks/header/__banner/_second/header__banner_second.css);
+@import url(../blocks/header/__navigation-container/header__navigation-container.css);
+@import url(../blocks/header/__dropdown-btn/header__dropdown-btn.css);
+@import url(../blocks/header/__dropdown-btn-text/header__dropdown-btn-text.css);
+
+/* smile */
+
+@import url(../blocks/smile/smile.css);
+@import url(../blocks/smile/__container/smile__container.css);
+@import url(../blocks/smile/__italic-title/smile__italic-title.css);
+@import url(../blocks/smile/__paragraph/smile__paragraph.css);
+@import url(../blocks/smile/__text/smile__text.css);
+@import url(../blocks/smile/__rectangle/smile__rectangle.css);
+@import url(../blocks/smile/__rectangle-paragraph/smile__rectangle-paragraph.css);
+@import url(../blocks/smile/__image/smile__image.css);
+
+
+/* collections */
+
+@import url(../blocks/collections/collections.css);
+@import url(../blocks/collections/__title/collections__title.css);
+@import url(../blocks/collections/__slider/collections__slider.css);
+@import url(../blocks/collections/__item/collections__item.css);
+@import url(../blocks/collections/__description-container/collections__description-container.css);
+@import url(../blocks/collections/__description-title/collections__description-title.css);
+@import url(../blocks/collections/__description-text/collections__description-text.css);
+@import url(../blocks/collections/__image/collections__image.css);
+@import url(../blocks/collections/__link/collections__link.css);
+
+/* categories */
+
+@import url(../blocks/categories/categories.css);
+@import url(../blocks/categories/__title/categories__title.css);
+@import url(../blocks/categories/__grid/categories__grid.css);
+@import url(../blocks/categories/__item/categories__item.css);
+@import url(../blocks/categories/__card-title/categories__card-title.css);
+@import url(../blocks/categories/__image/categories__image.css);
+@import url(../blocks/categories/__image/_body-baume/categories__image_body-baume.css);
+@import url(../blocks/categories/__image/_sanitizer/categories__image_sanitizer.css);
+@import url(../blocks/categories/__image/_mini-hand-creams/categories__image_mini-hand-creams.css);
+@import url(../blocks/categories/__image/_liquid-soap/categories__image_liquid-soap.css);
+@import url(../blocks/categories/__image/_shower-gel/categories__image_shower-gel.css);
+@import url(../blocks/categories/__description/categories__description.css);
+@import url(../blocks/categories/__description-text/categories__description-text.css);
+
+/* footer */
+
+@import url(../blocks/footer/footer.css);
+
+/* footer-reas */
+
+@import url(../blocks/footer-reas/footer-reas.css);
+@import url(../blocks/footer-reas/__card/footer-reas__card.css);
+@import url(../blocks/footer-reas/__image/footer-reas__image.css);
+@import url(../blocks/footer-reas/__title/footer-reas__title.css);
+@import url(../blocks/footer-reas/__subtitle/footer-reas__subtitle.css);
+
+/* footer suscribe & contact us */
+
+@import url(../blocks/footer/__row/footer__row.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__subtitle/footer__subtitle.css);
+
+@import url(../blocks/footer/__suscribe-form/footer__suscribe-form.css);
+@import url(../blocks/footer/__suscribe-content/footer__suscribe-content.css);
+@import url(../blocks/footer/__suscribe-button/footer__suscribe-button.css);
+
+@import url(../blocks/footer/__contact-us/footer__contact-us.css);
+@import url(../blocks/footer/__contact-slider-link/footer__contact-slider-link.css);
+
+/* footer content */
+
+@import url(../blocks/footer/__columns/footer__columns.css);
+
+@import url(../blocks/footer/__column/_content/_recycling/footer__column_content_recycling.css);
+@import url(../blocks/footer/__column/_content/_e-shop/footer__column_content_e-shop.css);
+@import url(../blocks/footer/__column/_content/_shops/footer__column_content_shops.css);
+
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
+@import url(../blocks/footer/__column-links/footer__column-links.css);
+@import url(../blocks/footer/__column-notice/footer__column-notice.css);
+@import url(../blocks/footer/__column-ecologo/footer__column-ecologo.css);
+@import url(../blocks/footer/__column-ecolink/footer__column-ecolink.css);

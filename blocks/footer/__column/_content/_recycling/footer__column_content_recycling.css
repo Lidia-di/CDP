@@ -1,0 +1,13 @@
+.footer__column_content_recycling {
+  flex-basis: 750px;
+  min-height: 250px;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+@media screen and (max-width: 1280px) {
+  .footer__column_content_recycling {
+    justify-content: end;
+    flex-basis: 0px;
+  }
+}

@@ -1,0 +1,15 @@
+.footer {
+  width: 100%;
+  background-color: #f3f1ec;
+  margin: 0px;
+}
+/*
+@media screen and (min-width: 320px) and (max-width: 767px){
+  .footer {
+    min-width: 230px;
+    min-height: 310px;
+    padding: 64px 16px 24px;
+    flex-direction: column;
+    align-content: space-between;
+  }
+}

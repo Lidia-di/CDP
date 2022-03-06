@@ -1,0 +1,20 @@
+.smile__image {
+  margin: auto;
+  padding-bottom: 60px;
+  width: 695px;
+  height: 405px;
+  background-repeat: no-repeat;
+  background-image: url(../../../images/smile.jpeg);
+  position: relative;
+  left: 180px;
+  bottom: 250px;
+  z-index: 1;
+}
+@media screen and (max-width: 450px) {
+  .smile__image {
+    background-image: url(../../../images/smile-mob.jpeg);
+    width: 100%;
+    left: auto;
+    bottom: 100px;
+  }
+}

@@ -1,0 +1,22 @@
+.smile__rectangle {
+  margin: auto;
+  padding: 15px 15px 0px 48px;
+  box-sizing: border-box;
+  background: #939288;
+  width: 605px;
+  height: 405px;
+  color: #fff;
+  position: relative;
+  right: 245px;
+  top: 90px;
+  z-index: 2;
+}
+@media screen and (max-width: 450px) {
+  .smile__rectangle {
+    width: 340px;
+    height: 240px;
+    top: 45px;
+    right: auto;
+    padding: 0px;
+  }
+}

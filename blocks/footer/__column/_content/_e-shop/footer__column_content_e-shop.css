@@ -1,0 +1,6 @@
+.footer__column_content_e-shop {
+  width: 30%;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+}

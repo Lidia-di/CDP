@@ -1,0 +1,13 @@
+.categories__image_shower-gel {
+  height: 280px;
+  background-size: cover;
+  background-image: url(../../../../images/product_grid/shower-gel.jpg);
+  background-color: black;
+  opacity: 0.8;
+  transition: .3s ease-in;
+}
+
+.categories__image_shower-gel:hover{
+  opacity: 1;
+  transform: scale(1.1, 1.1);
+}

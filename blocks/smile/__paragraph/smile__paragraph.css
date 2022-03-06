@@ -1,0 +1,17 @@
+.smile__paragraph {
+  margin: 0px;
+  padding-top: 10px;
+  font-family: "TTChocolates";
+  font-size: 22px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 29px;
+  font-weight: 700;
+}
+@media screen and (max-width: 450px) {
+  .smile__paragraph {
+    font-size: 14px;
+    margin: 0px 16px;
+  }
+}

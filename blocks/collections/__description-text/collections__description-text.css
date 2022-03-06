@@ -1,0 +1,14 @@
+.collections__description-text {
+  width: 310px;
+  margin: 0px;
+  padding: 20px 20px 20px;
+  font-size: 16px;
+  line-height: 21px;
+  letter-spacing: 1.5px;
+  color: #353535;
+}
+@media screen and (max-width: 450px) {
+  .collections__description-text {
+    width: 85%;
+  }
+}

@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "TTChocolates";
+  src: url("./TTChocolates-Regular.woff2") format("woff2");
+  src: url("./TTChocolates-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "TTChocolates";
+  src: url("./TTChocolates-Bold.woff2") format("woff2");
+  src: url("./TTChocolates-Bold.woff") format("woff");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "TTChocolates";
+  src: url("./TTChocolates-Black.woff2") format("woff2");
+  src: url("./TTChocolates-Black.woff") format("woff");
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Marianna";
+  src: url("./Marianna.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Angelica";
+  src: url("./WhiteAngelica.ttf") format("ttf");
+  src: url("./WhiteAngelica.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "RozoviiChulok";
+  src: url("./RozoviiChulok.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Liana";
+  src: url("./Liana.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}

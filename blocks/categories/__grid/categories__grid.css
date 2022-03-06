@@ -1,0 +1,17 @@
+.categories__grid {
+  margin: 0 auto;
+  width: calc((280px*4) + (20px*3));
+  padding-bottom: 20px;
+  background: #f3be9a;
+  display: grid;
+  grid-template-columns: repeat(4, 280px);
+  grid-template-row: repeat(2, 280px);
+  grid-auto-flow: row;
+  gap: 19px;
+}
+@media screen and (max-width: 450px) {
+  .categories__grid {
+    width: 85%;
+    grid-template-columns: 280px;
+  }
+}

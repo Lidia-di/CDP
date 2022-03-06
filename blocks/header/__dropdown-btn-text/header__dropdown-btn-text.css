@@ -1,0 +1,10 @@
+.header__dropdown-btn-text {
+  margin: 0px;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 21px;
+  letter-spacing: 1.5px;
+}

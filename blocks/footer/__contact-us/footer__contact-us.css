@@ -1,0 +1,13 @@
+.footer__contact-us {
+  margin: 0 auto;
+  padding: 25px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+@media screen and (max-width: 1280px) {
+  .footer__contact-us {
+    width: 33%;
+  }
+}

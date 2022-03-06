@@ -1,0 +1,22 @@
+.footer__column-links {
+  line-height: 22px;
+  letter-spacing: 1.5px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #353535;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.footer__column-links:first-of-type {
+  margin: 0px;
+  padding-top: 20px;
+}
+.footer__column-links:last-of-type {
+  margin: 0px;
+  padding-bottom: 16px;
+}
+.footer__column-links:hover {
+  transition: 0.3s;
+  opacity: 50%;
+}

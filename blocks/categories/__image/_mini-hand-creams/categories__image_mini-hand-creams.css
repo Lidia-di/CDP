@@ -1,0 +1,13 @@
+.categories__image_mini-hand-creams {
+  height: 280px;
+  background-size: cover;
+  background-image: url(../../../../images/product_grid/mini-hand-creams.jpg);
+  background-color: black;
+  opacity: 0.8;
+  transition: .3s ease-in;
+}
+
+.categories__image_mini-hand-creams:hover{
+  opacity: 1;
+  transform: scale(1.1, 1.1);
+}

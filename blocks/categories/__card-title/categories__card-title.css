@@ -1,0 +1,13 @@
+.categories__card-title {
+  margin: 0px;
+  text-align: center;
+  color: white;
+  padding: 20px 0px;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 21px;
+  letter-spacing: 1.5px;
+  text-shadow: 0.2px 0.2px 0.2px #353535, 0 0 0.2em #353535;
+  transition: .1s;
+}

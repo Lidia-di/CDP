@@ -1,0 +1,10 @@
+.smile__text {
+  margin: 0 auto;
+  width: 45%;
+  text-align: center;
+}
+@media screen and (max-width: 450px) {
+  .smile__text {
+    width: 100%;
+  }
+}

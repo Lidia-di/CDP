@@ -1,0 +1,10 @@
+.footer-reas__image {
+  width: 75px;
+  transition: .3s ease-in-out;
+}
+
+.footer-reas__image:hover {
+  opacity: 0.5;
+  transform: scale(1.1);
+  -webkit-animation: leaves 5s ease-in-out infinite alternate;
+}

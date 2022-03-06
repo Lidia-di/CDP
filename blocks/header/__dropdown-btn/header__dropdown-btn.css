@@ -1,0 +1,30 @@
+.header__dropdown-btn {
+  height: 45px;
+  width: 180px;
+  margin: 0px 25px;
+  list-style: none;
+  text-decoration: none;
+  background:rgba(0,0,0,0.3);
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header__dropdown-btn:hover{
+  background:rgba(0,0,0,0.5);
+}
+a.header__dropdown-btn {
+  background:transparent;
+}
+a.header__dropdown-btn:hover{
+  background:transparent; 
+}
+html {
+  scroll-behavior: smooth;
+}
+@media screen and (max-width: 450px) {
+  .header__dropdown-btn {
+    margin: 10px 0px;
+  }
+}

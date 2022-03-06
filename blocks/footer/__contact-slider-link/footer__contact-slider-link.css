@@ -1,0 +1,48 @@
+.footer__contact-slider-link {
+  text-transform: uppercase;
+  font-family: TTChocolates,serif;
+  font-weight: 900;
+  letter-spacing: 2px;
+  color: #353535;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.footer__contact-slider-link:hover {
+  opacity: 0.8;
+}
+/*e7e0ce
+
+.footer__contact-slider-link:after {
+    content: '';
+    transform-origin: 0 0;
+    transform: scaleX(1);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: .6em;
+    background: rgba(204,186,144,.4);
+    z-index: -1;
+    opacity: .8;
+    transition: transform .3s
+}
+
+.footer__contact-slider-link:hover::after {
+    animation: underlined 1s both;
+}
+/*
+@keyframes underlined {
+    from {
+        transform: scaleX(1)
+    }
+
+    50% {
+        transform: scaleX(0)
+    }
+
+    100% {
+        transform: scaleX(1)
+    }
+}
+*/

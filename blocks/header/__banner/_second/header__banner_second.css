@@ -1,0 +1,13 @@
+.header__banner_second {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('../../../../images/bigbanner.png');
+}
+@media screen and (max-width: 420px) {
+  .header__banner_second {
+    background-size: contain;
+    background-image: url('../../../../images/bigbanner-mob.png');
+  }
+}

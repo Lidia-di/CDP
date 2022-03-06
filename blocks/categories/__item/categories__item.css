@@ -1,0 +1,9 @@
+.categories__item {
+  list-style-type: none;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.categories__item:hover {
+  cursor: pointer;
+}

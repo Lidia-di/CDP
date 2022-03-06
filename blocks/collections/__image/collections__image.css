@@ -1,0 +1,17 @@
+.collections__image {
+  width: 30%;
+  position: absolute;
+  padding-left: 4%;
+}
+@media screen and (min-width: 1671px) {
+  .collections__image {
+    width: 20%;
+    padding-left: 14%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .collections__image {
+    width: 85%;
+    padding-left: 0px;
+  }
+}

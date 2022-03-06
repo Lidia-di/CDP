@@ -1,0 +1,6 @@
+.footer__column_content_shops {
+  width: 30%;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+}

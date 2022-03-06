@@ -1,0 +1,11 @@
+.footer__column-notice {
+  width: 266px;
+  line-height: 22px;
+  letter-spacing: 1.5px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #353535;
+  margin: 0px;
+  padding: 18px 0px 18px;
+  box-sizing: border-box;
+}

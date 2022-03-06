@@ -1,0 +1,12 @@
+.header__banner_first{
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('../../../../images/bigbanner1.png');
+  transition: 3s ease-in-out;
+  display: none;
+}
+/*.header__banner_first:hover {
+  transform: translateX(100%);
+}*/

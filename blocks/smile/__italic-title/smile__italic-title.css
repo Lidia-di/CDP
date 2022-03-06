@@ -1,0 +1,15 @@
+.smile__italic-title {
+  margin: 0px;
+  padding-top: 30px;
+  font-family: "Marianna";
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  font-size: 53px;
+  line-height: 80px;
+  text-align: center;
+}
+@media screen and (max-width: 450px) {
+  .smile__italic-title {
+    font-size: 40px;
+  }
+}
